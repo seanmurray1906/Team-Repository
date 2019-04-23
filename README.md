@@ -1,1 +1,1 @@
-# Team-Repositry
+# Team-Repository
